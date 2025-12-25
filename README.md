@@ -2,15 +2,15 @@
 
 Data science & AI student intrested in building practical project in AI, Robotics, and app development.
 
-###  Currently learning 
+### 🌱 Currently learning 
 -Machine learning fundamentals
 
 -Agentic AI 
 
-###  Skills
+### 💻 Skills
 -python, c, SQL
 
 -Pandas, NumPy, basic ML
 
-###  How to reach me 
--linkdin: www.linkdin.com/in/aakrity-kumari
+### 📫 How to reach me 
+-🔗linkdin: www.linkdin.com/in/aakrity-kumari
