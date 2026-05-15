@@ -15,6 +15,9 @@ Hi, 👋 I'm Aakrity Kumari<br><br>Data science & AI student Interested in build
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aakrity9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aakrity9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://komarev.com/ghpvc/?username=Aakrity9&icon=0&color=0)](https://visitcount.itsvg.in)
 
