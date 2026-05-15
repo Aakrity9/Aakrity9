@@ -4,7 +4,7 @@ Data science & AI student intrested in building practical project in AI, Robotic
 
 ### 🌱 Currently learning 
 -Machine learning fundamentals
-
+-Data Science and AI
 -Agentic AI 
 
 ### 💻 Skills
